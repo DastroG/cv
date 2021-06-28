@@ -1,0 +1,186 @@
+body {
+  background-color: #383e56;
+  text-align: center;
+  font-family:Holtwood One SC', serif;
+}
+
+.top-container{
+  position:relative;
+  padding-top:300px;
+}
+
+.top{
+  position:absolute;
+  top:200px;
+  left:200px;
+}
+
+.bottom{
+  position:absolute;
+  right:200px;
+}
+
+.heading {
+  color: #f1c5c5;
+  margin:auto;
+  font-family: 'Dancing Script', cursive;
+  font-size:100px;
+}
+
+.about {
+  color: #f1c5c5;
+  font-family: 'Carme', sans-serif;
+  font-size:30px;
+}
+
+.middle-container{
+  position:relative;
+  padding-top:200px;
+}
+
+.profile{
+  margin:100px auto 100px auto;
+}
+
+.heading-2{
+  color: #f1c5c5;
+  font-family: 'Dancing Script', cursive;
+  font-size:50px;
+}
+
+.hello{
+  color: #f1c5c5;
+  font-family: 'Itim', cursive;
+  font-size:20px;
+}
+
+.heading-3{
+  color: #f1c5c5;
+  font-family: 'Dancing Script', cursive;
+  font-size:50px;
+}
+
+.skills{
+  position:relative;
+  padding-top:100px;
+}
+
+.heading-4{
+  color: #f1c5c5;
+  font-family: 'Dancing Script', cursive;
+  font-size:35px;
+}
+
+.coding{
+  color: #f1c5c5;
+  font-family: 'Itim', cursive;
+  font-size:20px;
+}
+
+.skill-row{
+  margin:100px auto 100px auto;
+}
+
+.skill-2{
+  margin:100px auto 100px auto;
+}
+
+.heading-5{
+  color: #f1c5c5;
+  font-family: 'Dancing Script', cursive;
+  font-size:35px;
+}
+
+.hacking{
+  color: #f1c5c5;
+  font-family: 'Itim', cursive;
+  font-size:20px;
+}
+
+.contact-me{
+  position:relative;
+  padding-top:100px;
+}
+
+.touch{
+  color: #f1c5c5;
+  font-family: 'Dancing Script', cursive;
+  font-size:50px;
+}
+
+.freelance{
+  color: #f1c5c5;
+  font-family: 'Itim', cursive;
+  font-size:35px;
+}
+
+.fancy{
+  color: #f1c5c5;
+  font-family: 'Itim', cursive;
+  font-size:20px;
+  margin-bottom:78px;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 7px;
+  width: 5%;
+}
+
+.bottom-container{
+  position:relative;
+  padding-top:50px;
+}
+
+.btn{
+	box-shadow: 0px 10px 14px -7px #276873;
+	background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+	background-color: #45b29a;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#1b7f69;
+	font-family:'Itim', cursive;
+	font-size:20px;
+	font-weight:bold;
+	padding:13px 32px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #3d768a;
+  margin:50px auto 80px auto;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+	background-color:#408c99;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+.bottom-container{
+  padding-top:70px;
+  padding-bottom:25px;
+  background-color:#3fc1c9;
+  font-weight: 300;
+  font-family: 'Itim', cursive;
+}
+
+.footer-link{
+  color:#fcbad3;
+  font-family:'Itim', cursive;
+  margin:10px 20px;
+  font-size:19px;
+  text-decoration: none;
+}
+
+.footer-link:active{
+  color:#311d3f;
+}
+
+.copy{
+  color:#fcbad3;
+  font-size:0.75em;
+  padding:20px 0; 
+}
